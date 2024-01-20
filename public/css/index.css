@@ -32,7 +32,6 @@
 .col-img>a {
     z-index: 1000;
 }
-
 .icon {
     font-size: 48px;
 }
@@ -82,5 +81,10 @@
             padding-bottom: 0 !important; */
         margin: 15px 15px !important;
 
+    }
+}
+@media screen and (min-width: 1150px) {
+    .section__1-form{
+        width: 80%;
     }
 }
